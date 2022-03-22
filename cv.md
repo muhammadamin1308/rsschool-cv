@@ -13,4 +13,12 @@ function multiply(a, b){
   return a * b
 }
 ```
-
+#Skills
+- Html & Css 
+- Javascript Basics
+- Bootsrap & Materialize css
+- Git & GitHub
+# Language Skills:
+1. Uzbek - Fluent
+2. Russian - Advanced
+3. English - B1
