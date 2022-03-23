@@ -1,1 +1,1 @@
-### https://github.com/muhammadamin1308/rsschool-cv/blob/gh-pages/cv.md
+### https://muhammadamin1308.github.io/rsschool-cv/
