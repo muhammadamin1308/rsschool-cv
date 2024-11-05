@@ -23,5 +23,5 @@ function multiply(a, b){
 # Language Skills:
 1. Uzbek - Fluent
 2. Russian - Advanced
-
+3. English - C1
 
